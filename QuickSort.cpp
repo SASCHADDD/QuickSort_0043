@@ -120,6 +120,8 @@ int main ()
         /* code */
       }
       
-    } while (/* condition */);
+    } while (true);
+
+    return 0;
     
 }
